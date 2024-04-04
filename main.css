@@ -1,6 +1,6 @@
 id{
     font-size: 50%;
-
+    align-items: first baseline;
 }
 
 
@@ -8,3 +8,21 @@ id{
 class nav{
     font-variant-position: super;
 }
+#iphone{
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+
+}
+
+
+.image-container a {
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    margin: 10px;
+    display: block;
+  }
+
+  
