@@ -1,42 +1,31 @@
-id{
-    font-size: 50%;
-    align-items: first baseline;
+
+
+#iphone {
+
+    text-align: center;
+
 }
 
 
+#bcomprar {
+    width: 100px;
+    height: 100px;
+    border-radius: 40%;
 
+}
 
-#iphone{
-
+.cat {
     text-align: center;
-    
-    }
-    
-      .catIph{
-    
-        text-align: center;
-      }
-    
-     #bcomprar{
-        width: 100px;
-        height: 100px;
-        border-radius: 40%;
-         
-    }
-    .imiph  {
-        text-align: center;
-        
-      
-    
-    }
-    img{
-        width: 600px;
-        height: 300x;
-    }
-    
-     
-    #boiph{
-     text-justify: calc(50%);
-   
+}
 
-    }    
+img {
+    text-align: center;
+    width: 600px;
+    height: 600px;
+}
+
+
+.btnC {
+    border-radius: 8px;
+    padding: 6px;
+}
